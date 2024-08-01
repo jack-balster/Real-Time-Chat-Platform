@@ -29,4 +29,5 @@ A real-time chat application.
 <img width="1436" alt="Screenshot 2024-08-01 at 2 55 51 PM" src="https://github.com/user-attachments/assets/1c4641c0-a164-4250-8c27-c844f5ed0c57">
 <img width="1435" alt="Screenshot 2024-08-01 at 2 57 57 PM" src="https://github.com/user-attachments/assets/7d87f78b-803e-41bf-a065-5cc454abf9a7">
 <img width="1439" alt="Screenshot 2024-08-01 at 2 56 28 PM" src="https://github.com/user-attachments/assets/f533629d-00b9-4ef9-a273-5ed72e309803">
+<img width="1432" alt="Screenshot 2024-08-01 at 2 54 53 PM" src="https://github.com/user-attachments/assets/52ac7054-4cd8-4884-8b11-0e99eb4712f7">
 
