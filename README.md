@@ -1,6 +1,6 @@
 # Chat Me
 
-A real-time chat application.
+A real-time chat application
 
 ## Technologies Used
 
